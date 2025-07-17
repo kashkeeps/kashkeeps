@@ -13,7 +13,7 @@
 ✨ dream it, code it, git it girl ✨
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Pixel+Art+Enthusiast;Cat+Lover;AI+Explorer;Neon+Aesthetic+Lover;Code+Dreamer&font=Fira+Code&size=20&duration=3000&pause=1000&color=9d4edd&center=true&width=500&height=50" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Developer;Cat+Lover;AI+Explorer;ML+Enthusiast;Code+Dreamer&font=Fira+Code&size=20&duration=3000&pause=1000&color=9d4edd&center=true&width=500&height=50" />
 
 </div>
 
@@ -70,48 +70,28 @@ class KashishAggarwal:
 <tr>
 <td width="50%">
 
-### 🌟 AI Pixel Art Generator
-A neon-aesthetic pixel art generator powered by AI with cyberpunk vibes.
+###  Document Summariser 💌
+An AI-powered tool that extracts concise summaries from lengthy documents using Gemini API.
 
-**Tech:** Python, Gemini AI, CSS Animations
+**Tech:** Python, Gemini AI, HTML, CSS
 
-[![View Project](https://img.shields.io/badge/View-Project-9d4edd?style=for-the-badge&logo=github)](https://github.com/kashkeeps)
+[![View Project](https://github.com/kashkeeps/Document-Summariser)](https://github.com/kashkeeps)
 
 </td>
 <td width="50%">
 
-### 🎮 Retro Portfolio Hub
-Interactive portfolio with pixel-perfect design and neon animations.
+### जनConnect 🌙
+जनConnect is a platform that connects citizens with their local government officials to report issues, give feedback, and improve accountability.
 
-**Tech:** HTML/CSS, JavaScript, Pixel Art
+**Tech:** JavaScript, HTML, CSS
 
-[![View Project](https://img.shields.io/badge/View-Project-9d4edd?style=for-the-badge&logo=github)](https://github.com/kashkeeps)
+[![View Project](https://github.com/kashkeeps/Jan-Connect)](https://github.com/kashkeeps)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌙 MoodCat Tracker
-Whimsical cat mood tracking app with pixel animations and database.
-
-**Tech:** Python, MySQL, Data Visualization
-
-[![View Project](https://img.shields.io/badge/View-Project-9d4edd?style=for-the-badge&logo=github)](https://github.com/kashkeeps)
-
-</td>
-<td width="50%">
-
-### 🚀 Live Portfolio
-Fully interactive portfolio with cyberpunk aesthetics and smooth animations.
-
-**Tech:** HTML5, CSS3, JavaScript
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00ffff?style=for-the-badge&logo=vercel)](https://github.com/kashkeeps)
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -155,10 +135,10 @@ Just chilling...     Feeling magical!     Reaching for stars!
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-9d4edd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-9d4edd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashishaggarwalworks@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00ffff?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/kashkeeps)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow_Me-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashkeeps)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-9d4edd?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-aggarwal-a389b7203/)
 
 </div>
 
@@ -178,7 +158,7 @@ You found the secret! Here's some developer wisdom:
 • Code is poetry written for machines to understand
 • Every bug is just a feature waiting to be discovered  
 • The best debugging happens at 3 AM with a cat on your lap
-• Remember: If it works, don't touch it. If it doesn't, blame the cat.
+• Remember: If it works, don't touch it.
 
 Thanks for exploring! ✨
 ```
