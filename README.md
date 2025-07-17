@@ -1,4 +1,4 @@
-# 💜 Kashish Aggarwal | @kashkeeps
+#  Kashish Aggarwal | @kashkeeps
 
 <div align="center">
 
