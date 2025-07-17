@@ -1,4 +1,4 @@
-#  Kashish Aggarwal | @kashkeeps
+# 💜 Kashish Aggarwal | @kashkeeps
 
 <div align="center">
 
@@ -182,10 +182,19 @@ class KashishAggarwal:
 
 [![Kashish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashkeeps&theme=tokyo-night&bg_color=0d1117&color=9d4edd&line=00ffff&point=ff69b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### 🗓️ Contribution Calendar
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/kashkeeps/kashkeeps/output/github-contribution-grid-snake-dark.svg)
+### 🗓️ Contribution Heatmap
+<img src="https://ghchart.rshah.org/9d4edd/kashkeeps" alt="Kashish's GitHub Contribution Chart" width="100%" />
+
+### 📊 Commit Activity
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kashkeeps&repo=kashkeeps&theme=tokyonight&border_color=9d4edd&title_color=9d4edd&text_color=ffffff&bg_color=0d1117" alt="Profile Repository" />
 
 **💡 Fun Fact:** My most productive coding hours are between 9 PM - 2 AM 🌙
+
+```
+💜 Contribution Streak: Coding consistently every day!
+🚀 Peak Activity: Late night coding sessions
+⭐ Goal: 365 days of code contributions
+```
 
 </div>
 
