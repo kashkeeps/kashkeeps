@@ -70,28 +70,141 @@ class KashishAggarwal:
 <tr>
 <td width="50%">
 
-###  Document Summariser 💌
-An AI-powered tool that extracts concise summaries from lengthy documents using Gemini API.
+<div style="border: 2px solid #9d4edd; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); margin: 10px;">
 
-**Tech:** Python, Gemini AI, HTML, CSS
+### 📄 Document Summariser 💌
+<img src="https://img.shields.io/badge/Status-Complete-00ff00?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Type-AI_Tool-9d4edd?style=flat-square&logo=openai&logoColor=white" />
 
-[![View Project](https://github.com/kashkeeps/Document-Summariser)](https://github.com/kashkeeps)
+**🎯 Description:** An AI-powered tool that extracts concise summaries from lengthy documents using Gemini API.
+
+**🛠️ Tech Stack:**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**✨ Features:**
+- 📝 Document upload & processing
+- 🧠 AI-powered summarization
+- 💫 Clean, intuitive interface
+
+<div align="center">
+<a href="https://github.com/kashkeeps/Document-Summariser">
+<img src="https://img.shields.io/badge/View_Project-9d4edd?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#demo">
+<img src="https://img.shields.io/badge/Live_Demo-00ffff?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</div>
+
+</div>
 
 </td>
 <td width="50%">
 
-### जनConnect 🌙
-जनConnect is a platform that connects citizens with their local government officials to report issues, give feedback, and improve accountability.
+<div style="border: 2px solid #00ffff; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #161b22 100%); margin: 10px;">
 
-**Tech:** JavaScript, HTML, CSS
+### 🏛️ जनConnect 🌙
+<img src="https://img.shields.io/badge/Status-Complete-00ff00?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Type-Web_App-00ffff?style=flat-square&logo=webflow&logoColor=white" />
 
-[![View Project](https://github.com/kashkeeps/Jan-Connect)](https://github.com/kashkeeps)
+**🎯 Description:** A platform connecting citizens with local government officials to report issues, provide feedback, and improve accountability.
+
+**🛠️ Tech Stack:**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**✨ Features:**
+- 🏛️ Government transparency
+- 📱 Citizen engagement platform
+- 💬 Real-time feedback system
+
+<div align="center">
+<a href="https://github.com/kashkeeps/Jan-Connect">
+<img src="https://img.shields.io/badge/View_Project-00ffff?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="#demo">
+<img src="https://img.shields.io/badge/Live_Demo-9d4edd?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</div>
+
+</div>
 
 </td>
 </tr>
-<tr>
-<td width="50%">
+</table>
 
+**🌟 Want to see more?** Check out my [repositories](https://github.com/kashkeeps?tab=repositories) for additional projects!
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements & Trophies
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kashkeeps&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🎖️ Achievement Badges
+
+![GitHub followers](https://img.shields.io/github/followers/kashkeeps?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/kashkeeps?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=kashkeeps&style=flat-square&color=9d4edd)
+
+**🔥 Streak Status:** Currently on a coding streak!  
+**⭐ Star Collector:** Giving stars to amazing projects  
+**👥 Community Builder:** Contributing to open source  
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashkeeps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=9d4edd&title_color=9d4edd&icon_color=00ffff&text_color=ffffff&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashkeeps&layout=compact&theme=tokyonight&border_color=9d4edd&title_color=9d4edd&text_color=ffffff&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kashkeeps&theme=tokyonight&border=9d4edd&stroke=00ffff&ring=9d4edd&fire=ff69b4&currStreakLabel=00ffff&background=0d1117"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Kashish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kashkeeps&theme=tokyo-night&bg_color=0d1117&color=9d4edd&line=00ffff&point=ff69b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🗓️ Contribution Calendar
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/kashkeeps/kashkeeps/output/github-contribution-grid-snake-dark.svg)
+
+**💡 Fun Fact:** My most productive coding hours are between 9 PM - 2 AM 🌙
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```
+🎯 2024 Goals:
+┌─────────────────────────────────────┐
+│ ✅ Learn AI/ML fundamentals         │
+│ 🔄 Build full-stack applications   │
+│ 📚 Contribute to open source       │
+│ 🌟 Launch personal portfolio       │
+│ 🤝 Connect with tech community     │
+└─────────────────────────────────────┘
+```
 
 </div>
 
@@ -112,20 +225,6 @@ Just chilling...     Feeling magical!     Reaching for stars!
 ```
 
 **💭 "Every great developer has a cat companion"**
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kashkeeps&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=9d4edd&title_color=9d4edd&icon_color=00ffff&text_color=ffffff&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashkeeps&layout=compact&theme=tokyonight&border_color=9d4edd&title_color=9d4edd&text_color=ffffff&bg_color=0d1117"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kashkeeps&theme=tokyonight&border=9d4edd&stroke=00ffff&ring=9d4edd&fire=ff69b4&currStreakLabel=00ffff&background=0d1117"/>
 
 </div>
 
