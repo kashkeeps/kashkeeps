@@ -1,97 +1,143 @@
-<!-- Profile Header -->
+<!-- README.md (Enhanced Version) -->
+
 <div align="center">
-  <img src="assets/avatar-pixel.png" width="180px" style="border-radius: 16px; box-shadow: 0 0 15px #bbf;" alt="pixel avatar"/>
-
-  <h1 style="font-family: 'Courier New', monospace; font-size: 32px; color: #ccf; margin-top: 10px;">
-    ✨ Kashish Aggarwal (@kashkeeps)
+  <img src="assets/banner.svg" width="100%"/>
+  
+  <h1 align="center">
+    <span class="animated-gradient">Kashish Aggarwal</span>
   </h1>
-
-  <p style="font-size: 16px; color: #ccc; font-family: 'Courier New', monospace;">
-    Aspiring Full Stack dev | cat lover 🐱 | building cool stuff with curiosity 💫
-  </p>
-
-  <p style="font-size: 14px; color: #e0aaff; font-style: italic;">
-    “dream it, code it, <span style="color: #9ef">git it girl</span>”
+  
+  <p><code>dream it, code it, <span style="color:#9d4edd">git it girl</span></code></p>
+  
+  <img src="assets/pixel-avatar.svg" width="150px"/>
+  
+  <p align="center">
+    Aspiring Full Stack Dev | Cat Lover | Building cool stuff with Python, C and AI 💻🐱<br>
+    Space ✨ | Cyberpunk ⚡ | Pixel Witch Vibes 🪄
   </p>
 </div>
 
 ---
-
-<img src="assets/pixel-starfield.svg" width="100%" alt="pixel stars twinkling"/>
 
 ## 🌌 About Me
 
-- 🧠 Python & C enthusiast  
-- 🐬 Databases: MySQL & Supabase  
-- 🤖 Playing with Gemini AI & Prompt Engineering  
-- 💻 Exploring ML basics: Classification, Regression, Pipelines  
-- ⚙️ Dev Tools: Git, GitHub, Linux, VS Code, Postman  
-- 🌈 Dreaming in pixels, coding in color  
+- 💜 Passionate about tech, design and all things whimsical
+- 🧠 Interested in generative AI, prompt engineering and building quirky UIs
+- 🪐 Inspired by stars, synths, and a little magic
+- 📫 Reach me: [@kashkeeps](https://github.com/kashkeeps)
 
 ---
 
-## 🌟 Skills at a Glance
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,linux,git,vscode,postman&perline=5"/>
-</div>
+## 🧰 Tools & Tech Stack
+
+```txt
+Languages:        Python, C
+Databases:        MySQL, Supabase
+AI/ML:            Gemini AI, Prompt Engineering, Basic ML
+Dev Tools:        Git, GitHub, Linux, VS Code, Postman
+```
 
 ---
 
-## 🛸 Featured Projects
+## 📁 Featured Projects
+
 <div align="center">
-  <a href="https://github.com/kashkeeps?tab=repositories" style="text-decoration: none;">
-    <div style="
-      display: inline-block;
-      border: 1px solid #999;
-      border-radius: 12px;
-      padding: 15px;
-      background-color: #111;
-      color: #ccc;
-      transition: all 0.3s ease;
-      box-shadow: 0 0 5px #9ef;"
-      onmouseover="this.style.backgroundColor='#222'; this.style.boxShadow='0 0 12px #9ef';"
-      onmouseout="this.style.backgroundColor='#111'; this.style.boxShadow='0 0 5px #9ef';">
-      <strong>🌈 Check out my Projects</strong><br/>
-      Hover to explore my pixel dev world!
-    </div>
+  <a href="#" style="text-decoration:none">
+    <img src="assets/project1-card.svg" width="300"/>
+  </a>
+  <a href="#">
+    <img src="assets/project2-card.svg" width="300"/>
+  </a>
+  <a href="#">
+    <img src="assets/project3-card.svg" width="300"/>
   </a>
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🧩 Live Projects
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kashkeeps&theme=darkhub&no-frame=true&column=6&margin-w=10"/>
+  <a href="https://kashkeeps.github.io/project1" target="_blank">
+    <img src="https://img.shields.io/badge/✨-Pixel%20Cat%20Blog-7b2cbf?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://kashkeeps.github.io/project2" target="_blank">
+    <img src="https://img.shields.io/badge/🌙-Neon%20Notes-5a189a?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://kashkeeps.github.io/project3" target="_blank">
+    <img src="https://img.shields.io/badge/🎨-Dreamboard%20Generator-9d4edd?style=for-the-badge&logo=github"/>
+  </a>
 </div>
 
 ---
 
-## 🔮 GitHub Stats
+## 💫 MoodCat
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashkeeps&theme=tokyonight&show_icons=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashkeeps&theme=tokyonight"/>
+  <img src="assets/moodcat-normal.svg" width="80"/>
+  <img src="assets/moodcat-sparkle.svg" width="80"/>
+  <img src="assets/moodcat-star.svg" width="80"/>
 </div>
 
 ---
 
-## 🎨 Neon Pixel Effects
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="assets/speech-bubble.svg" width="80px"/>
-  <img src="assets/mood-cat.svg" width="80px"/>
-  <img src="assets/mirrorball.svg" width="80px"/>
-  <img src="assets/glowing-terminal.svg" width="100px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kashkeeps&show_icons=true&theme=tokyonight"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashkeeps&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
-## 📬 Connect with Me
-<div align="center">
-  <a href="mailto:kashish@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kashkeeps"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+## 🌠 Typing Animation
+
+```markdown
+<code>
+<span id="typewriter"></span>
+</code>
+```
+
+<script>
+const roles = [
+  "Aspiring Full Stack Dev",
+  "Pixel Designer",
+  "Neon Cat Enthusiast",
+  "Generative AI Explorer",
+];
+let i = 0;
+const el = document.getElementById("typewriter");
+function typeNext() {
+  el.innerHTML = roles[i];
+  i = (i + 1) % roles.length;
+  setTimeout(typeNext, 3000);
+}
+typeNext();
+</script>
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FCAFFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+repo!+%F0%9F%91%8B;See+you+in+the+terminal+again+soon+%F0%9F%9A%80"/>
-</div>
+<style>
+.animated-gradient {
+  background: linear-gradient(270deg, #9d4edd, #7b2cbf, #5a189a);
+  background-size: 600% 600%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientMove 6s ease infinite;
+  font-family: 'Press Start 2P', cursive;
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+
+<!-- Optional: Add link to Press Start 2P font -->
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+---
+
+<!-- End of README -->
